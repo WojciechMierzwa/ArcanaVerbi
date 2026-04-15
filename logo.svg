@@ -1,0 +1,18 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Arcana Verbi monogram">
+
+
+    <!-- lewy dolny element A -->
+    <polygon points="0,900 190,900 330,665 225,515" fill="#000000"/>
+
+    <!-- prawy dolny element -->
+    <polygon points="810,515 705,675 810,900 1000,900" fill="#000000"/>
+
+    <!-- główne lewe ramię -->
+    <polygon points="0,40 155,40 500,610 500,900" fill="#000000"/>
+
+    <!-- główne prawe ramię / V -->
+    <polygon points="500,610 810,40 1000,40 500,900" fill="#000000"/>
+
+    <!-- środkowy górny symbol -->
+    <polygon points="500,70 630,270 535,430 500,360 465,430 370,270" fill="#000000"/>
+</svg>
